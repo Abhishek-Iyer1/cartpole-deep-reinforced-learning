@@ -1,7 +1,7 @@
 # cartpole-deep-reinforced-learning
 We implement a DQN Agent using a Boltzmann Q Policy to tame the Cart Pole problem in the discrete action space. The method is tested against the baseline of making random movements and is implemented using the OpenAI Gym.
 
-The notebook is split into sections and is pretty self explanatory. You can get the following outputs by following the instructions in [CartPole-DRL.ipynb](CartPole-DRL.ipynb)
+The notebook is split into sections and is pretty self explanatory. You can get the following outputs by following the instructions in the [CartPole-DRL.ipynb](CartPole-DRL.ipynb) notebook.
 
 This is how the baseline method which takes random actions performs.
 
