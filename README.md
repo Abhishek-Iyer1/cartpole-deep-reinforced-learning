@@ -6,3 +6,4 @@ We implement a DQN Agent using a Boltzmann Q Policy to tame the Cart Pole proble
     <source src="videos/train.mp4" type="video/mp4">
   </video>
 </figure>
+
